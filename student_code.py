@@ -1,6 +1,4 @@
 import languageTools, utilities, reader, kb, memory, core
-import spacy
-spacy.load('en')
 
 #Red = "\u001b[31m"
 #Grn = "\u001b[32m"
